@@ -4,5 +4,6 @@ def using_while
     loop do
       levitation_force += 1
       'Wingardium Leviosa'
+    end
   #your code here
 end
